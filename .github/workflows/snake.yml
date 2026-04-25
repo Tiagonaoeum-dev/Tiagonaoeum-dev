@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake
         with:
-          github_user_name: Tiagonaoem-dev
+          github_user_name: Tiagonaoeum-dev
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
