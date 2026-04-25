@@ -1,0 +1,30 @@
+name: Gerar Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
+  workflow_dispatch:      # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Gerar animação da cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Tiagonaoeum-dev
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit e push dos arquivos gerados
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Atualizar animação da cobrinha"
+          git push
