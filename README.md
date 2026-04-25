@@ -67,7 +67,7 @@ class TiagoMartins:
         self.nome = "Tiago Martins"
         self.curso = "TÉCNICO DE INFORMÁTICA PARA INTERNET"
         self.objetivo = "Aprender e praticar programação"
-        self.tecnologias = ["Python", "HTML", "CSS", "JavaScript", "Git"]
+        self.tecnologias = ["Python", "HTML", "CSS", "JavaScript", "SLQite", "MySQL"]
     
     def saudacao(self):
         return f"Olá! Sou {self.nome} e estou estudando no {self.curso}!"
