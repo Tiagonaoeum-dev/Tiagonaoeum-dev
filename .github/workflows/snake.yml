@@ -15,8 +15,9 @@ jobs:
 
       - name: Gerar animação da cobrinha
         uses: Platane/snk@v3
+        id: snake
         with:
-          github_user_name: Tiagonaoeum-dev
+          github_user_name: Tiagonaoem-dev
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
@@ -28,5 +29,3 @@ jobs:
           git add output/
           git diff --quiet && git diff --staged --quiet || git commit -m "Atualizar animação da cobrinha"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
