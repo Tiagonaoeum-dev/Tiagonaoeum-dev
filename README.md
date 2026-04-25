@@ -1,6 +1,5 @@
 # Olá! Eu sou o Tiago Martins
 
-<img src="https://github.com/Tiagonaoeum-dev.png" width="200px" border-radius="50%">
 
 🎓 **Estudante do SENAICTTI MG em TÉCNICO DE INFORMÁTICA PARA INTERNET**  
 📚 Este perfil é **exclusivamente didático** — utilizado para atividades práticas e projetos desenvolvidos durante o curso.  
