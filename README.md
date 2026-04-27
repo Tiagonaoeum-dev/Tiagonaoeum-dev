@@ -1,6 +1,6 @@
 # Olá! Eu sou o Tiago Martins
 <div align="center">
-  <img src="https://github.com/Tiagonaoeum-dev/Tiagonaoeum-dev/blob/main/banner.gif.gif" width="660px" style="border-radius: 20px;" />
+  <img src="https://raw.githubusercontent.com/Tiagonaoeum-dev/Tiagonaoeum-dev/main/assets/banner.gif" width="580px" style="border-radius: 20px;" />
 </div>
 
 🎓 **Estudante do SENAICTTI MG em TÉCNICO DE INFORMÁTICA PARA INTERNET**  
