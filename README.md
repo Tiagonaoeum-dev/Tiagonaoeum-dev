@@ -1,4 +1,4 @@
-# Olá! Eu sou o Tiago Martins
+# Olá! Me chamo Tiago Martins
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tiagonaoeum-dev/Tiagonaoeum-dev/main/assets/banner.gif" width="580px" style="border-radius: 20px;" />
 </div>
