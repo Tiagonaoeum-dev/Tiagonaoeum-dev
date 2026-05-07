@@ -15,7 +15,6 @@
 - Adoro transformar ideias em pequenos projetos funcionais.
 - Foco total nos exercícios e desafios técnicos propostos no curso.
 - Pergunte-me sobre **HTML, CSS, JavaScript, Python** e **como organizar estudos em tecnologia**.
-- Como me encontrar: [@eotigas_xpg]
 
 ---
 
