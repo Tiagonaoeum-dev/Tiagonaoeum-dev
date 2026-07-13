@@ -3,45 +3,43 @@
   <img src="https://raw.githubusercontent.com/Tiagonaoeum-dev/Tiagonaoeum-dev/main/assets/banner.gif" width="580px" style="border-radius: 20px;" />
 </div>
 
-🎓 **Estudante do SENAICTTI MG em TÉCNICO DE INFORMÁTICA PARA INTERNET**  
-📚 Este perfil é **exclusivamente didático** — utilizado para atividades práticas e projetos desenvolvidos durante o curso.  
-🚀 Explorando o mundo da programação, tecnologia e inovação.
+🎓 ***Técnico em Informática para Internet – SENAI CTTI MG***
+
+💻 ***Desenvolvedor em formação, apaixonado por tecnologia e aprendizado contínuo.***
+
+🚀 ***Este perfil reúne projetos acadêmicos, estudos, desafios e experiências práticas desenvolvidas ao longo da minha jornada na programação.***
 
 ---
 
-## 🌟 Sobre mim
+## 👨‍💻 Sobre mim
 
-- Atualmente aprendendo **desenvolvimento web**.
-- Adoro transformar ideias em pequenos projetos funcionais.
-- Foco total nos exercícios e desafios técnicos propostos no curso.
-- Pergunte-me sobre **HTML, CSS, JavaScript, Python** e **como organizar estudos em tecnologia**.
-
----
-
-## Tecnologias que estou estudando
-
-**Linguagens de Programação**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Marcação & Estilização**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Banco de Dados**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Ferramentas & Ambiente**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🎓 Formado em Técnico em Informática para Internet pelo SENAI CTTI MG.
+- 📚 Buscando constantemente novos conhecimentos em desenvolvimento de software.
+- 💻 Interesse em desenvolvimento Back-end, Front-end e APIs.
+- 🚀 Desenvolvendo projetos para fortalecer minhas habilidades e construir meu portfólio.
+- 🎯 Em busca da primeira oportunidade profissional na área de Tecnologia da Informação.
 
 ---
 
-## 📌 Projetos didáticos
+## Tecnologias e ferramentas
 
-> Por aqui você vai encontrar pequenos desafios de lógica, páginas web simples, scripts em Python e atividades propostas pelo curso.
+<div align="center">
+
+| 💻 Linguagens | 🌐 Desenvolvimento Web |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" /> |
+
+| 🗄️ Banco de Dados | 🛠 Ferramentas |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" /> |
+
+</div>
+
+---
+
+## 📂 Projetos
+
+Neste perfil você encontrará projetos desenvolvidos durante minha formação técnica e estudos pessoais, incluindo aplicações web, APIs REST, bancos de dados, automações e desafios de programação.
 
 ---
 
@@ -57,27 +55,18 @@
 
 ---
 
-## Python em ação
+# Contato
 
-```python
-# Um pouco sobre mim em código
+<p align="center">
+Sempre aberto para conversar sobre tecnologia, projetos e oportunidades.
+</p>
 
-class TiagoMartins:
-    def __init__(self):
-        self.nome = "Tiago Martins"
-        self.curso = "TÉCNICO DE INFORMÁTICA PARA INTERNET"
-        self.objetivo = "Aprender e praticar programação"
-        self.tecnologias = ["Python", "HTML", "CSS", "JavaScript", "SLQite", "MySQL"]
-    
-    def saudacao(self):
-        return f"Olá! Sou {self.nome} e estou estudando no {self.curso}!"
-    
-    def aprender(self, tecnologia):
-        if tecnologia in self.tecnologias:
-            return f" Estudando {tecnologia} com dedicação!"
-        else:
-            return f" Em breve vou aprender {tecnologia} também!"
-
-eu = TiagoMartins()
-print(eu.saudacao())
-print(eu.aprender("Python"))
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=martinstiago010202@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tiago-martins-xpg70/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn"/>
+  </a>
+</p>
