@@ -1,8 +1,11 @@
 # Sejá bom vindo(a) 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tiagonaoeum-dev/Tiagonaoeum-dev/main/assets/Banner.gif" width="580px" style="border-radius: 20px;" />
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Tiagonaoeum-dev/Tiagonaoeum-dev/main/assets/BannerGithubBland.png"
+    alt="Banner do GitHub"
+    width="85%">
+</p>
 
 🎓 ***Técnico em Informática para Internet – SENAI CTTI MG***
 
