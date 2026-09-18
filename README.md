@@ -69,8 +69,5 @@ Sempre aberto para conversar sobre tecnologia, projetos e oportunidades.
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=martinstiago010202@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tiago-martins-xpg70/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn"/>
-  </a>
+ 
 </p>
